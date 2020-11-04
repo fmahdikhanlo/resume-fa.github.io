@@ -52,5 +52,5 @@
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
   <li>اینستاگرام: <a href="https://instagram.com/_mehdi_a.m?igshid=1smmeag1x4xb0">https://instagram.com/_mehdi_a.m?igshid=1smmeag1x4xb0</a></li>
-  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+  <li>رزومه ے انگلیسے: <a href="https://mehdi-1378.github.io/mehdi-resume/"> رزومه </a></li>
 </ul>
