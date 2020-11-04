@@ -23,7 +23,8 @@
 
 <h1> مدرک ها</h1>
 <ul>
-  <li>nothing</li>
+  <li>ICDL1</li>
+  <li>ICDL2</li>
 </ul>
 
 <h1> زبان ها</h1>
